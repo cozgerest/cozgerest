@@ -4,7 +4,8 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        1 hr            █████████████░░░░░░░░░░░░   52.22 % 
+Go           54 mins         ████████████░░░░░░░░░░░░░   47.78 % 
 ```
 <!--END_SECTION:waka-->
 
