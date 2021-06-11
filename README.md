@@ -4,8 +4,8 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-Other        1 hr            █████████████░░░░░░░░░░░░   52.09 % 
-Go           55 mins         ████████████░░░░░░░░░░░░░   47.91 % 
+Go           1 hr 49 mins    ████████████████░░░░░░░░░   64.61 % 
+Other        1 hr            █████████░░░░░░░░░░░░░░░░   35.39 % 
 ```
 <!--END_SECTION:waka-->
 
