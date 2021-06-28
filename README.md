@@ -8,5 +8,5 @@ Git Config   1 min           ██▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=cozgerest&show_icons=true&hide_border=false" />  </p>
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=cozgerest&show_icons=true&hide_border=false" />  </p> -->
 
