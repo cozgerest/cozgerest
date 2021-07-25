@@ -2,9 +2,9 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-HTML    4 hrs 10 mins   ████████████████████████▒   96.93 % 
-Other   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-SCSS    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+HTML    2 hrs 19 mins   ███████████████████████▓░   94.93 % 
+Other   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+SCSS    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
