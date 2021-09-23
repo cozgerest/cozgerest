@@ -2,7 +2,8 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 25 mins    ██████████████████████░░░   87.36 % 
+C++      12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 ```
 <!--END_SECTION:waka-->
 
