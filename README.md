@@ -2,7 +2,9 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        5 hrs 20 mins   ████████████████████████░   96.21 % 
+C++          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
