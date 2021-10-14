@@ -2,8 +2,7 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-C++          12 mins         ███████████████████░░░░░░   76.30 % 
-Git Config   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
+C++   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
