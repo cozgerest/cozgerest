@@ -2,8 +2,9 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 2 mins     ████████████████████████░   96.62 % 
-JSON     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Python   1 hr 14 mins    ██████████████████████▒░░   89.16 % 
+C++      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
 
