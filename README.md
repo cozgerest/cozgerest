@@ -2,8 +2,8 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-Python   13 mins         ██████████████▒░░░░░░░░░░   57.44 % 
-C++      9 mins          ██████████▓░░░░░░░░░░░░░░   42.56 % 
+Python   12 mins         █████████████░░░░░░░░░░░░   52.48 % 
+C++      11 mins         ████████████░░░░░░░░░░░░░   47.52 % 
 ```
 <!--END_SECTION:waka-->
 
