@@ -2,8 +2,7 @@
 # :stopwatch: Weekly coding time 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 17 mins   ███████████████████████░░   91.93 % 
-SQL          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
