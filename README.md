@@ -2,7 +2,9 @@
 # :stopwatch: Weekly coding time  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cozgerest) 
 <!--START_SECTION:waka-->
 ```text
-JSON   5 mins          █████████████████████████   100.00 % 
+JSON       5 mins          ███████████▒░░░░░░░░░░░░░   44.81 % 
+HTML       4 mins          ████████▓░░░░░░░░░░░░░░░░   34.37 % 
+Markdown   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.82 % 
 ```
 <!--END_SECTION:waka-->
 
