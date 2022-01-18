@@ -2,8 +2,7 @@
 # :stopwatch: Weekly coding time  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cozgerest) 
 <!--START_SECTION:waka-->
 ```text
-Python           1 hr 19 mins    ████████████████████████▒   96.68 % 
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Python   1 hr 3 mins     █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
