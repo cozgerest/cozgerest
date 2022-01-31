@@ -2,7 +2,8 @@
 # :stopwatch: Weekly coding time  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cozgerest) 
 <!--START_SECTION:waka-->
 ```text
-C++      3 hrs 51 mins   █████████████████████████   99.87 % 
+C++      8 hrs 6 mins    █████████████████████████   99.68 % 
+CMake    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 
