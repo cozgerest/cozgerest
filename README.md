@@ -1,5 +1,5 @@
 
-# :stopwatch: Weekly coding time  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cozgerest) 
+# :stopwatch: Weekly coding time
 <!--START_SECTION:waka-->
 ```text
 Total: 4 hrs 2 mins
