@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text     14 mins         ████████████████████████▓   99.13 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
