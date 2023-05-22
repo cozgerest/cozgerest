@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          ███████████▒░░░░░░░░░░░░░   45.88 %
-Other    0 secs          ███████▓░░░░░░░░░░░░░░░░░   31.22 %
-Pawn     0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
