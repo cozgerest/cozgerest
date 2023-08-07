@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             20 mins         █████████████████▓░░░░░░░   70.06 %
-GitIgnore file   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-IDEA_MODULE      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-CLASS            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
