@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   0 secs          ████████████████░░░░░░░░░   64.01 %
+JSON     0 secs          ████████▒░░░░░░░░░░░░░░░░   32.69 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
