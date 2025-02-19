@@ -3,7 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   4 mins          █████████████████████████   100.00 %
+JavaScript   0 secs          ███████████████████▓░░░░░   78.92 %
+Kotlin       0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.08 %
 ```
 
 <!--END_SECTION:waka-->
