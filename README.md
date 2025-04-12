@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML     3 mins          ██████████████▒░░░░░░░░░░   56.82 %
-JSON     2 mins          █████████▓░░░░░░░░░░░░░░░   38.89 %
-jsonc    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
