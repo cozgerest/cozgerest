@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins          █████████████████▓░░░░░░░   71.19 %
-INI     1 min           ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
