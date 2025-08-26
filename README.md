@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML                       17 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
-Markdown                   14 mins         ███████▒░░░░░░░░░░░░░░░░░   28.91 %
-Python                     8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-YAML                       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Bash                       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
