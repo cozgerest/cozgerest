@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#       16 mins         ███████████████████████▓░   94.74 %
-Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Binary   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-HTML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
