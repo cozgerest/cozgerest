@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                 46 mins               ████████░░░░░░░░░░░░░░░░░   32.34 %
-YAML                       30 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Markdown                   26 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-HTML                       23 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-Nginx configuration file   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+JavaScript                 46 mins               ██████████████░░░░░░░░░░░   55.55 %
+HTML                       23 mins               ███████░░░░░░░░░░░░░░░░░░   27.46 %
+Nginx configuration file   6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Markdown                   5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+YAML                       1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
