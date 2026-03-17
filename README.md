@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Zig                        1 hr 26 mins          ████████▒░░░░░░░░░░░░░░░░   33.73 %
-JavaScript                 56 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
-Other                      48 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Text                       15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Nginx configuration file   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+JavaScript                 56 mins               ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Other                      48 mins               ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Text                       15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Nginx configuration file   12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+JSON                       12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 ```
 
 <!--END_SECTION:waka-->
