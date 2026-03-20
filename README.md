@@ -3,9 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   12 mins               ████████████████████████░   95.70 %
-YAML                       0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Markdown                   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Markdown                   0 secs                ███████████████░░░░░░░░░░   60.52 %
+Nginx configuration file   0 secs                ██████████░░░░░░░░░░░░░░░   39.48 %
 ```
 
 <!--END_SECTION:waka-->
