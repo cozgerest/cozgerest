@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSV          36 mins               ████████▓░░░░░░░░░░░░░░░░   35.17 %
-JSON         28 mins               ███████░░░░░░░░░░░░░░░░░░   28.17 %
-JavaScript   20 mins               █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-Text         17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
