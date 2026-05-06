@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    1 hr 1 min            ███████████░░░░░░░░░░░░░░   44.24 %
+Other   34 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+JSON    32 mins               ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+PHP     10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
