@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 51 mins          █████████▒░░░░░░░░░░░░░░░   37.89 %
-JavaScript   1 hr 30 mins          ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-Docker       36 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Text         22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-HTML         16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
